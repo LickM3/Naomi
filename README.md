@@ -20,8 +20,7 @@ With Naomi, you don’t have to struggle with any other bot!
     <a href="https://github.com/LickM3/Naomi Bot/issues">Request Feature</a>
   </p>
 </p>
-
-![Downloads](https://img.shields.io/github/downloads/LickM3/Naomi Bot/total) ![Forks](https://img.shields.io/github/forks/LickM3/Naomi Bot?style=social) ![Stargazers](https://img.shields.io/github/stars/LickM3/Naomi Bot?style=social) ![Issues](https://img.shields.io/github/issues/LickM3/Naomi Bot) 
+ 
 
 ## Table Of Contents
 
